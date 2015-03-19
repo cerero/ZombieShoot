@@ -42,4 +42,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+Library/
+Temp/
+*.sln
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
 
